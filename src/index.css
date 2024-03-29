@@ -1,0 +1,38 @@
+*{
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.header{
+  height:5vw;
+  background-image:url("header.png");
+  background-size:100%;
+  background-repeat: no-repeat;
+}
+.menuWrapper {
+  background-color:rgb(58, 58, 184);
+  border: 1px solid #050505;
+  color: #ffffff;
+  margin:0px;
+}
+
+ 
+.title{
+  font-size: 24px;
+  color:orange
+}
+.btns{
+  background-color:rgb(58, 58, 184);
+  border-radius:0;
+}
+.btnt{
+  background-color:rgb(58, 58, 184);
+  border-radius:0;
+}
+.profile{
+  border-radius: 0;
+}
+.homeImage{
+  width:100%;
+}
